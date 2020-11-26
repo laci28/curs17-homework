@@ -8,7 +8,7 @@ public class Main {
                 new Person("Maria", "Stanescu", 3, "Cluj"),
                 new Person("Ionel", "Istrate", 13, "Oradea"),
                 new Person("Georgel", "Enescu", 50, "Cluj"),
-                new Person("Mihai", "Gheorghe", 22, "Deva"),
+                new Person("Mihai", "Anghel", 22, "Deva"),
                 new Person("Carl", "Petrescu", 35, "Oradea"),
                 new Person("Magdalena", "Neagu", 50, "Cluj"),
                 new Person("Alexandrescu", "Pastorel", 60, "Oradea"),
