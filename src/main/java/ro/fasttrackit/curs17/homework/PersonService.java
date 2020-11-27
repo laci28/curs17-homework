@@ -59,10 +59,9 @@ public class PersonService {
                 .collect(Collectors.toList());
     }
 
-    public List<String> firstNameWithA() {
+    public List<Person> firstNameWithA() {
         return persons.stream()
                 .filter(person -> person.getFirstName().startsWith("A"))
-                .map(Person::getFirstName)
                 .collect(Collectors.toList());
     }
 
